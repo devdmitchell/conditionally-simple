@@ -34,7 +34,7 @@ function howLongIsMyString(char){
 function personsHeight(person){
   if(person === "Shaq"){
     return 85
-  }else if(person ==="Zooey"){
+  }else if(person === "Zooey"){
     return 65
   }else{
     return "I don't know everyone's height!"
